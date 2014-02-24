@@ -1,4 +1,0 @@
-usr/lib/lib*.so.*
-usr/lib/*.la
-usr/lib/esmtp/*.so
-usr/lib/esmtp/*.la
